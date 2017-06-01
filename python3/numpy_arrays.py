@@ -1,2 +1,2 @@
 import numpy
-print(numpy.array(list(map(int, reversed(input().split(' ')))), float))
+print(numpy.array([float(i) for i in reversed(input().split(' '))]))
