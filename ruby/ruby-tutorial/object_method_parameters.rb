@@ -1,0 +1,1 @@
+a.range?(b, c)    # write your code here
